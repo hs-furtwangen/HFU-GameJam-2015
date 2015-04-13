@@ -3,7 +3,7 @@ The theme was: Religion, Fanaticism, Extremism
 
 The Book - http://github.com/hs-furtwangen/TheBook
 
-Hack and Pray - https://github.com/hs-furtwangen/HackAndPray
+Hack and Pray - http://github.com/hs-furtwangen/HackAndPray
 
 God Simulator - (No link yet)
 
